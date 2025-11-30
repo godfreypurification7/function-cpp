@@ -1,2 +1,1 @@
-# mathpolimorphism.cpp
-CPP Math Polimorphism
+The repository “function‑cpp” by godfreypurification7 appears to be either empty or contains no publicly visible C++ source files. As a result, at present it does not provide any usable code, headers, or documentation related to C++ functions. In effect, it serves as a placeholder rather than a functioning library or example set. Without committed files, one cannot clone or build anything from it. Therefore it offers no practical benefit today — its name suggests it might cover C++ function examples or utilities, but nothing material is exposed so far.
